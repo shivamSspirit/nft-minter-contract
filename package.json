@@ -15,7 +15,8 @@
     "@nomiclabs/hardhat-ethers": "^2.2.2",
     "chai": "^4.3.7",
     "ethers": "^5.7.2",
-    "hardhat": "^2.13.0"
+    "hardhat": "^2.13.0",
+    "base64-sol": "1.1.0"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.2",
